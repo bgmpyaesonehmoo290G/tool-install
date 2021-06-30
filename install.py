@@ -27,8 +27,8 @@ slowprint(''' \033[93m
 [01] (©)Camehack
 [02] (©) Sqlmap
 [03] (©) Phishing
-[04](® )DDOS
-[05](®) admin-Search''')
+[04] (©)DDOS
+[05] (©) admin-Search''')
 print ("                                            ")
 choice = input("\033[93mDo You Want to Install Tools[y/n] : ")
 if choice == 'n' : sys.exit()
