@@ -16,9 +16,9 @@ def slowprint(s):
 
 slowprint (''' \033[91m
 +--------------------------------------+
- Install  5 useful tools
+ 🇲🇲Install  5 useful tools🇲🇲
 
-™  Code By Pyae Sone Hmoo ™
+™  Code By Pyae Sone Hmoo🦄 ™
 (github   https://github.com/bgmpyaesonehmoo290G/)
 (facebookacc  https://www.facebook.com/profile.php?id=100030025394608)
 ************************************''')
@@ -76,4 +76,4 @@ def slowprint(s):
         sys.stdout.flush()
         time.sleep(8. / 100)
 print("\033[95m+-------------------------------------------------+")
-slowprint('''\033[95m|           We are Hackcat         |''')
+slowprint('''\033[95m|           We are Hackcat                  |''')
